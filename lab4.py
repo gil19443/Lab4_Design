@@ -1,1 +1,1 @@
-# Laboratorio 4 - Prueba de Repositorio# Carlos Gil       19443# Carlos Cuellar  # Renato Medizabal 18007
+# Laboratorio 4 - Prueba de Repositorio# Carlos Gil       19443# Carlos Cuellar# Renato Medizabal 18007
